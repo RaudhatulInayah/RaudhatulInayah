@@ -4,5 +4,5 @@ void main() {
 
   print('Apakah pengguna sudah masuk? $isLoggedIn'); 
   print('Apakah pengguna adalah admin? $isAdmin');   
-
+  
 }
