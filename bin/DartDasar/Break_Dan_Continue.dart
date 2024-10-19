@@ -1,5 +1,4 @@
 void main() {
-  // Kode dengan Break
   var counter = 1;
   while (true) {
     print('Perulangan ke-$counter');
@@ -12,7 +11,6 @@ void main() {
 
   print('Selesai perulangan dengan break.\n');
 
-  // Kode dengan Continue
   for (var counter = 1; counter <= 170; counter++) {
     if (counter % 2 == 0) {
       continue;
