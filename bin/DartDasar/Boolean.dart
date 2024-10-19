@@ -1,6 +1,6 @@
 void main() {
-  bool isLoggedIn = true;  // Menyatakan bahwa pengguna telah masuk
-  bool isAdmin = false;     // Menyatakan bahwa pengguna bukan admin
+  bool isLoggedIn = true;  
+  bool isAdmin = false;    
 
   print('Apakah pengguna sudah masuk? $isLoggedIn'); 
   print('Apakah pengguna adalah admin? $isAdmin');   
